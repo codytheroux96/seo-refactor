@@ -14,6 +14,10 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+/*Took away the text decoration for the text that is in the abbr tag*/
+abbr{
+    text-decoration: none;
+}
 /*consolidated these settings for all my html tags that contain h1, h2, h3*/
 h1 {
     display: inline-block;
