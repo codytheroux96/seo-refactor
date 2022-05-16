@@ -83,7 +83,7 @@ p {
 }
 
 /*This is the settings for the area with the article tags*/
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
