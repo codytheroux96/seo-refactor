@@ -5,3 +5,8 @@ For this assignment I had to take previously written code and make it more seman
 
 ## Visuals
 ![Picture of my webpage](assets\images\Horiseon-Search-Engine-Optimization.png)
+
+## Resources
+- [Live Site](https://codytheroux96.github.io/seo-refactor/)
+
+- [Repository](https://github.com/codytheroux96/seo-refactor)
