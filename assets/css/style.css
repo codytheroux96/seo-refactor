@@ -3,10 +3,12 @@
     padding: 0;
     margin: 0;
 }
+
 /*below this is going to set the background color for the webpage*/
 body {
     background-color: #d9dcd6;
 }
+
 /*this is going to be the settings for my header*/
 header {
     padding: 20px;
@@ -14,15 +16,18 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /*Took away the text decoration for the text that is in the abbr tag*/
-abbr{
+abbr {
     text-decoration: none;
 }
+
 /*consolidated these settings for all my html tags that contain h1, h2, h3*/
 h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -32,6 +37,7 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
 /*These are the settings for my nav bar*/
 nav {
     padding-top: 15px;
@@ -40,17 +46,20 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /*These are the settings for the hyperlinks in my navbar*/
 a {
     margin: 8px;
     color: #ffffff;
     text-decoration: none;
 }
+
 /*These are the settings for my paragraphs located within the tags <p>*/
 p {
     font-size: 16px;
     color: #ffffff
 }
+
 /*Settings for the big picture right below my header*/
 .hero {
     height: 800px;
@@ -60,6 +69,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 /*These classes "float etc" are being used to set the pictures within my article h2 sections*/
 .float-left {
     float: left;
@@ -71,16 +81,19 @@ p {
     float: right;
     margin-left: 25px;
 }
+
 /*This is the settings for the area with the article tags*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
 /*These are the settings for every img tag i have within my article tag*/
 article img {
     max-height: 200px;
 }
+
 /*Declaring the settings for everything i grouped into the section tag in my html*/
 section {
     margin-right: 20px;
@@ -93,17 +106,20 @@ section {
     background-color: #2589bd;
     margin-top: auto;
 }
+
 /*Declaring the settings i set for everything within my aside tag*/
 aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /*Grouped all my images within the aside tag together and gave them these settings*/
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
 /*These are the settings for the ID's within my article tag*/
 #search-engine-optimization {
     margin-bottom: 20px;
@@ -132,6 +148,7 @@ aside img {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /*Settings for the footer of my page*/
 footer {
     padding: 30px;
